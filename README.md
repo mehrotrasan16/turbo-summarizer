@@ -7,4 +7,16 @@ https://www.microsoft.com/en-us/research/publication/the-knowref-coreference-cor
 
 One task to perform in MRC is the Google [Coreference task](https://ai.google/tools/datasets/gap-coreference/) 
 
-A fun intro by Eric Yuan is given [here](http://eric-yuan.me/compare-popular-mrc-datasets/)
+A fun intro to a few datasets by Eric Yuan is given [here](http://eric-yuan.me/compare-popular-mrc-datasets/)
+
+Idea #1: 
+terminator
+terminator judgement day
+terminator rise of the machines
+terminator salvation
+terminator genisys
+terminator dark fate
+
+read all the wiki pages and supporting wiki pages and generate a summary of the movies/franchise.
+
+
