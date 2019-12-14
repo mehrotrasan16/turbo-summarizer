@@ -11,10 +11,15 @@ A fun intro to a few datasets by Eric Yuan is given [here](http://eric-yuan.me/c
 
 Idea #1: 
 terminator
+
 terminator judgement day
+
 terminator rise of the machines
+
 terminator salvation
+
 terminator genisys
+
 terminator dark fate
 
 read all the wiki pages and supporting wiki pages and generate a summary of the movies/franchise.
